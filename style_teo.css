@@ -50,7 +50,9 @@ h1 {
     font-family: "Patrick Hand SC", cursive;
     font-weight: 400;
     font-style: normal;
-    font-size:larger
+    font-size:larger;
+    margin-left: 40px;
+    width: 80%;
 }
 
 .button-container {
