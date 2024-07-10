@@ -7,7 +7,6 @@ body {
 header {
     width:100%;
     height:150px;
-    border:1px solid blue;
 }
 nav {
     width: 90%;
@@ -29,10 +28,10 @@ nav ul li {
 }
 h1 {
     text-align: center;
-    color: #4CAF50;
+    color: goldenrod;
     text-shadow: white;
     margin-top: 0;
-    font-size: 32px;
+    font-size: 64px;
     font-family: "Patrick Hand SC", cursive;
     font-weight: 400;
     font-style: normal;
@@ -54,7 +53,7 @@ h1 {
 }
 
 .custom-button {
-    background-color: #4CAF50; /* Green */
+    background-color: #99b27f; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -76,4 +75,9 @@ h1 {
     background-color: white;
     color: black;
     border: 2px solid #4CAF50;
+}
+
+.kasbackground {
+    background-image: none;
+    background-color: #99b27f;
 }
